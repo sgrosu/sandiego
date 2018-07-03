@@ -2,6 +2,9 @@
 
 .ipynb_checkpoints/*
 
+movielens/
+
+*.csv
 *.jpg
 
 
