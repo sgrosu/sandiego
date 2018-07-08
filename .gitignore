@@ -4,6 +4,8 @@
 
 movielens/
 
+ml-20m/
+*.zip
 *.csv
 *.jpg
 
