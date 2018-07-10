@@ -3,11 +3,17 @@
 .ipynb_checkpoints/*
 
 movielens/
-
+Week-7-MachineLearning/
 ml-20m/
+wdi/
+
 *.zip
 *.csv
 *.jpg
-
+*.png
+*.pdf
+*.tex
+*.html
+*.odp
 
 
